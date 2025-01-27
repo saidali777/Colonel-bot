@@ -11,17 +11,17 @@ def is_enabled(value, default):
     else:
         return default
 #---------------------------------------------------------------
-#---------------------------------------------------------------         ,
+#---------------------------------------------------------------       ,
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+API_ID = int(environ.get('API_ID', '12618934'))
+API_HASH = environ.get('API_HASH', '49aacd0bc2f8924add29fb02e20c8a16')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7548204664:AAG1VeyBlblrByRx8CY7UqtnSt8__p5wfZ4')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7837304801').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/JisshuMovieZone')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002362610953'))
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+CSqTYnEFFldkYzdl')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
