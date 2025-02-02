@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="" alt="Jisshu-Auto-filter">
+  <img src="" alt="Colonel-Auto-filter">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Colonel Auto Filter Bot</a>
+  <a href="https://t.me/saidali12123">Colonel Auto Filter Bot</a>
 </h1>
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://envs.sh/mBN.jpg"/>
 
 ## **𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠**
 
 `/commands` Enter this command inside the bot and all the commands will be set automatically.
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://envs.sh/mBN.jpg"/>
 
 ## **Futures**
 <details><summary>Check Bot Futures</summary>
@@ -59,7 +59,8 @@
 - [x] Set ads 
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 </details>
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://envs.sh/mBN.jpg
+"/>
 
 ## Variables
 
@@ -111,7 +112,7 @@ Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<img src="https://envs.sh/mBN.jpg" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
